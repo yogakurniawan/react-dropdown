@@ -1,12 +1,12 @@
 {
-  "name": "react-dropdown",
+  "name": "react-styled-dropdown",
   "version": "1.4.2",
-  "description": "React dropdown component",
+  "description": "React dropdown component styled with styled-components",
   "main": "dist/index.js",
   "style": "style.css",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fraserxu/react-dropdown.git"
+    "url": "git://github.com/yogakurniawan/react-styled-dropdown.git"
   },
   "files": [
     "dist/index.js",
@@ -21,15 +21,15 @@
     "select"
   ],
   "author": {
-    "name": "Fraser Xu",
-    "email": "xvfeng123@gmail.com",
-    "url": "https://fraserxu.me"
+    "name": "Yoga Kurniawan",
+    "email": "yogaygk@gmail.com",
+    "url": "http://yogakurniawan.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fraserxu/react-dropdown/issues"
+    "url": "https://github.com/yogakurniawan/react-styled-dropdown/issues"
   },
-  "homepage": "https://github.com/fraserxu/react-dropdown",
+  "homepage": "https://github.com/yogakurniawan/react-styled-dropdown",
   "dependencies": {
     "classnames": "^2.2.3"
   },
